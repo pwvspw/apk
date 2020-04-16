@@ -33,6 +33,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1abVGArEDaTo4KxDb6Ju8nkPtLR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -46,6 +49,11 @@
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apk" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -69,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587004181861</updated>
-      <workItem from="1587004183064" duration="153000" />
+      <workItem from="1587004183064" duration="396000" />
     </task>
     <servers />
   </component>
